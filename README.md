@@ -6,6 +6,8 @@
 TSLint
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mattlk13/tslint.svg)](https://greenkeeper.io/)
+
 An extensible linter for the [TypeScript language](https://github.com/Microsoft/TypeScript).
 
 TSLint supports:
