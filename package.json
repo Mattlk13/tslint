@@ -39,11 +39,11 @@
     "babel-code-frame": "^6.20.0",
     "colors": "^1.1.2",
     "diff": "^3.0.1",
-    "findup-sync": "~0.3.0",
+    "findup-sync": "~0.4.3",
     "glob": "^7.1.1",
     "optimist": "~0.6.0",
     "resolve": "^1.1.7",
-    "update-notifier": "^1.0.2"
+    "update-notifier": "^2.1.0"
   },
   "peerDependencies": {
     "typescript": ">=2.0.0"
@@ -51,24 +51,24 @@
   "devDependencies": {
     "@types/babel-code-frame": "^6.20.0",
     "@types/chai": "^3.4.34",
-    "@types/colors": "^0.6.33",
+    "@types/colors": "^1.1.1",
     "@types/diff": "0.0.31",
     "@types/findup-sync": "^0.3.29",
     "@types/glob": "^5.0.30",
     "@types/js-yaml": "^3.5.29",
     "@types/mocha": "^2.2.35",
-    "@types/node": "^6.0.56",
+    "@types/node": "^7.0.5",
     "@types/optimist": "0.0.29",
     "@types/resolve": "0.0.4",
     "@types/update-notifier": "^1.0.0",
     "chai": "^3.5.0",
     "js-yaml": "^3.7.0",
     "mocha": "^3.2.0",
-    "npm-run-all": "^3.1.0",
+    "npm-run-all": "^4.0.2",
     "rimraf": "^2.5.4",
     "tslint": "latest",
     "tslint-test-config-non-relative": "file:test/external/tslint-test-config-non-relative",
-    "typescript": "2.1.4"
+    "typescript": "2.2.1"
   },
   "license": "Apache-2.0",
   "engines": {
